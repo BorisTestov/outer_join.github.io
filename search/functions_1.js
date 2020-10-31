@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['version',['version',['../version_8cpp.html#ac3a29640c3dadfe882faed565ee376ec',1,'version():&#160;version.cpp'],['../version_8h.html#ac3a29640c3dadfe882faed565ee376ec',1,'version():&#160;version.cpp']]]
+  ['controller',['Controller',['../classController.html#ae1d7f1814db7ab462eaf42f8b84f3670',1,'Controller']]],
+  ['createtable',['createTable',['../classController.html#a794a08b60e325ad8a2e738f9f1a18ff4',1,'Controller']]]
 ];

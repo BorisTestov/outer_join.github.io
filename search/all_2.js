@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['version',['version',['../version_8cpp.html#ac3a29640c3dadfe882faed565ee376ec',1,'version():&#160;version.cpp'],['../version_8h.html#ac3a29640c3dadfe882faed565ee376ec',1,'version():&#160;version.cpp']]],
-  ['version_2ecpp',['version.cpp',['../version_8cpp.html',1,'']]],
-  ['version_2eh',['version.h',['../version_8h.html',1,'']]]
+  ['datatype',['dataType',['../structTable_1_1dataType.html',1,'Table::dataType'],['../structTable_1_1dataType.html#a8a92fc838af7bbfd7541d78e475b47e1',1,'Table::dataType::dataType()']]],
+  ['duplicate_5fkey',['DUPLICATE_KEY',['../classResult.html#a6726a7cf95daf0eb96548a40e6feaaedafc32c944cf407e8ee38eb89ffd7e3717',1,'Result']]]
 ];

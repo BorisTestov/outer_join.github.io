@@ -1,0 +1,10 @@
+<map id="include/controller.h" name="include/controller.h">
+<area shape="rect" id="node2" href="$controller_8cpp.html" title="src/controller.cpp" alt="" coords="84,80,217,107"/>
+<area shape="rect" id="node3" href="$main_8cpp.html" title="src/main.cpp" alt="" coords="338,304,443,331"/>
+<area shape="rect" id="node4" href="$shell_8h.html" title="include/shell.h" alt="" coords="242,80,358,107"/>
+<area shape="rect" id="node5" href="$shell_8cpp.html" title="src/shell.cpp" alt="" coords="106,155,209,181"/>
+<area shape="rect" id="node6" href="$session_8h.html" title="include/session.h" alt="" coords="233,155,367,181"/>
+<area shape="rect" id="node9" href="$server_8h.html" title="include/server.h" alt="" coords="5,229,131,256"/>
+<area shape="rect" id="node7" href="$server_8cpp.html" title="src/server.cpp" alt="" coords="63,304,175,331"/>
+<area shape="rect" id="node8" href="$session_8cpp.html" title="src/session.cpp" alt="" coords="206,229,327,256"/>
+</map>
